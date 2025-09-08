@@ -1999,3 +1999,4 @@ transactions_id,sale_date,sale_time,customer_id,gender,age,category,quantiy,pric
 650,10/8/23,12:41:00,98,Male,55,Electronics,1,30,15,30
 1211,11/22/23,14:59:00,82,Male,42,Beauty,3,500,235,1500
 1650,9/23/22,16:24:00,89,Male,55,Electronics,1,30,10.8,30
+
